@@ -6,6 +6,7 @@
 // Live Server
 
 //npm install live-server -g
+//>live-server
 
 console.error('error');
 console.warn('warn');
