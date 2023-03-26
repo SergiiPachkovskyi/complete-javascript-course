@@ -351,7 +351,7 @@ class Account {
         return true;
     }
 
-    // // protected method
+    // // private method
     // #approveLoan() {
     //     return true;
     // }
